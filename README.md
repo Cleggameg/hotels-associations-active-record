@@ -1,0 +1,1 @@
+# hotels-associations-active-record
